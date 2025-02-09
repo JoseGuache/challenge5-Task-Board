@@ -28,7 +28,7 @@ This app is pretty simple yet incredibly useful. Its a task management site that
 
 ## Credits
 
-I used [MDN Web Docs](https://developer.mozilla.org/en-US/) for help with some elements and [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) for help structuring the README. Aslo had to use ChatGPT for help debugging, but unfortunatly it was NOT much help.
+I used [MDN Web Docs](https://developer.mozilla.org/en-US/) for help with some elements and [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) for help structuring the README. Aslo had to use [ChatGPT](https://chatgpt.com/) for help debugging, but unfortunatly it was NOT much help.
  
 ## License
 
